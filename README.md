@@ -9,6 +9,7 @@ Dalam source code ini, dapat ditemukan:
 2. vending_machine_withRefund.py sebagai kode program yang sudah dimodifikasi untuk bisa melakukan fitur pengembalian
 3. vending_dfa.txt sebagai dokumen konfigurasi
 4. README.md sebagai dokumen pendukung
+5. Dokumen laporan sebagai dokumentasi program
 
 ## Daftar Harga Minuman
 Vending Machine AiCe menyediakan berbagai minuman:
